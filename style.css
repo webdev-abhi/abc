@@ -236,12 +236,11 @@ iframe{
         width: 100%;
     }
     img{
-        width: 300px;
-        height: 250px;
+        width: 220px;
+        height: 180px;
         position: relative;
         margin-top: 10%;
-        margin-left: 4rem;
-        margin-right: 6rem;
+        margin-left: 3rem;
         
     }
     .social-media-links i{
